@@ -1,1 +1,1 @@
-# Colored_Image_Histogram_Equalizatin
+# Colored_Image_Histogram_Equalization
