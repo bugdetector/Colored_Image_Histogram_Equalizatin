@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1493751502 source:c:\users\bakiy\desktop\ppm_reader\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+	<fcntl.h>
+	<malloc.h>
+	<math.h>
+
